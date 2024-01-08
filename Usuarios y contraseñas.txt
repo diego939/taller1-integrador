@@ -1,0 +1,25 @@
+-- SESION CLIENTE --
+
+USUARIO:
+friasjulian@gmail.com
+
+CONTRASEÑA:
+programa
+
+
+-- SESION ADMINISTRADOR --
+
+USUARIO:
+brunoalmiron@gmail.com
+
+CONTRASEÑA:
+programa
+
+
+-- SESION SUPER ADMINISTRADOR --
+
+USUARIO:
+diego@gmail.com
+
+CONTRASEÑA:
+programa
